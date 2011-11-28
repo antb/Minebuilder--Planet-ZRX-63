@@ -1,0 +1,91 @@
+BLOCKLIST (For recipe modification)
+(X) = Not used
+#	ITB	MINEBUILDER		XENOMOD			
+1	T	Plain Stone		
+2	T	Dirt w/ Grass		
+3	T	Dirt			
+4	T	Cobblestone
+5	T	Planks
+6	T	Sapling
+7	T	Bedrock (X)
+8	T	Water 
+9	T	Water
+10	T	Lava
+11	T	Lava
+12	T	Sand
+13	T	Gravel (X)
+14	T	Gold Ore		Bauxite
+15	T	Iron Ore		Oil
+16	T	Coal			Flint
+17	T	Wood
+18	T	Leaves			Spores
+20	T	Glass
+21	T	Lapiz (X)
+22	T	Lapiz Block (X)
+24	T	SandStone
+35	T	Sand?
+41	T	Gold Block		Aluminum Block
+42	T	Iron Block		
+44	T	Stone Slab
+45	T	Brick (X)
+49	T	Obsidian
+50	B	Torch			Oil Torch
+54	T	Chest
+56	T	Diamond Ore		Xenonium
+57	T	Hard rock? (X)
+58	T	Workbench
+61	T	Furnace (X)
+63	B	Signs
+64	B	Door
+65	B	Ladder
+100	B	Elevator (Top)
+101	T	Elevator (Cables)
+102	T	Elevator (Car)
+
+150	T				Beacon
+151	T				Xenonic Alloy
+152	T				Furnace
+
+256	I	Iron Shovel
+257	I	Iron Pickaxe
+258	I	Iron Axe
+263	I	Coal 			Flint
+264	I	Diamond			Xenore
+265	I	Iron Bar
+266	I	Gold Bar		Aluminium Bar
+267	I	Iron Sword		
+268	I	Baseball Bat		Base Sword
+269	I	Wooden Shovel		Base Shovel
+270	I	Wooden Pickaxe		Base Pickaxe
+271	I	Wooden Axe		Base Axe
+272	I	Stone Sword		Modified Sword
+273	I	Stone Shovel		Modified Shovel
+274	I	Stone Pickaxe		Modified Pickaxe
+275	I	Stone Axe		Modified Axe
+276	I	Diamond Sword		Xenonic Blade
+277	I	Diamond Shovel		Xenonic Shovel
+278	I	Diamond Pickaxe		Xenonic Pickaxe
+279	I	Diamond Axe		Xenonic Axe
+280	I	Stick
+283	I	Golden Sword		Forged Blade
+284	I	Golden Shovel		Forged Shovel
+285	I	Golden Pickaxe		Forged Pickaxe
+286	I	Golden Axe		Forged Axe
+290	I	Wooden Hoe		(X)
+291	I	Stone Hoe		(X)
+292	I	Iron Hoe		(X)
+293	I	Diamond Hoe		(X)
+294	I	Golden Hoe		(X)
+
+325	I	Bucket
+326	I	Bucket (Water)
+327	I	Bucket (Lava)
+
+400	I	Fire
+
+XenoMod only Items
+#ID	ITB	NAME
+150	B	Beacon
+151	B	Refined Xenon
+152	B	Furnace
+500	I	Bucket (Oil)
