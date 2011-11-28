@@ -899,6 +899,7 @@
 		</textures>
 	</block>
 
+	<!--XENOMOD-->
 	<block id="150"> <!--Beacon -->
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -956,8 +957,7 @@
 		<active>false</active>
 		<emittance>4</emittance>
 		
-
-		<tool id="0" drop="152">7500</tool>
+		<tool id="278" drop="152">7500</tool>
 		
 		<textures>
 			<top x="14" y="2"/>

@@ -24,8 +24,8 @@ BLOCKLIST (For recipe modification)
 22	T	Lapiz Block (X)
 24	T	SandStone
 35	T	Sand?
-41	T	Gold Block		Aluminum Block
-42	T	Iron Block		
+41	T	Gold Block
+42	T	Iron Block		Aluminum Block		
 44	T	Stone Slab
 45	T	Brick (X)
 49	T	Obsidian
@@ -51,8 +51,8 @@ BLOCKLIST (For recipe modification)
 258	I	Iron Axe
 263	I	Coal 			Flint
 264	I	Diamond			Xenore
-265	I	Iron Bar
-266	I	Gold Bar		Aluminium Bar
+265	I	Iron Bar		Aluminium Bar
+266	I	Gold Bar		
 267	I	Iron Sword		
 268	I	Baseball Bat		Base Sword
 269	I	Wooden Shovel		Base Shovel
@@ -83,9 +83,16 @@ BLOCKLIST (For recipe modification)
 
 400	I	Fire
 
+500	I	Bucket (Oil)
+
 XenoMod only Items
 #ID	ITB	NAME
 150	B	Beacon
 151	B	Refined Xenon
 152	B	Furnace
 500	I	Bucket (Oil)
+
+
+---NOTES---
+While BAUXITE replaces GOLD, Aluminium items replace IRON items.
+This is to maintain Texture pack compatibility with Minebuilder.
