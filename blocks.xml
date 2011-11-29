@@ -318,7 +318,7 @@
 		</textures>
 	</block>
 	
-	<block id="16">
+	<block id="16">	<!--Flint-->
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -330,12 +330,13 @@
 		<active>false</active>
 		<emittance>0</emittance>
 		
+		<!--Old Drop: 263-->
 		<tool id="0" drop="0">15000</tool>
-		<tool id="270" drop="263">2250</tool>
-		<tool id="274" drop="263">1150</tool>
-		<tool id="257" drop="263">750</tool>
-		<tool id="278" drop="263">600</tool>
-		<tool id="285" drop="263">400</tool>
+		<tool id="270" drop="501">2250</tool>
+		<tool id="274" drop="501">1150</tool>
+		<tool id="257" drop="501">750</tool>
+		<tool id="278" drop="501">600</tool>
+		<tool id="285" drop="501">400</tool>
 		
 		<textures>
 			<default x="2" y="2"/>
@@ -615,7 +616,7 @@
 			<default x="5" y="0"/>
 		</textures>
 	</block>
-	
+
 	<block id="50">
 		<solid>false</solid>
 		<transparent>false</transparent>
@@ -626,7 +627,7 @@
 		<liquid>false</liquid>
 		<valuable>false</valuable>
 		<active>false</active>
-		<emittance>15</emittance>
+		<emittance>10</emittance> <!--default 15-->
 		
 		<tool id="0" drop="50">0</tool>
 		
@@ -634,7 +635,7 @@
 			<default x="0" y="5"/>
 		</textures>
 	</block>
-	
+
 	<block id="54">
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -933,19 +934,19 @@
 		<active>false</active>
 		<emittance>0</emittance>
 		
-		<tool id="0" drop="151">50000</tool>
-		<tool id="270" drop="151">50000</tool>
-		<tool id="274" drop="151">50000</tool>
-		<tool id="257" drop="151">50000</tool>
-		<tool id="278" drop="151">15000</tool>
-		<tool id="285" drop="151">50000</tool>
+		<tool id="0" drop="502">50000</tool>
+		<tool id="270" drop="502">50000</tool>
+		<tool id="274" drop="502">50000</tool>
+		<tool id="257" drop="502">50000</tool>
+		<tool id="278" drop="502">15000</tool>
+		<tool id="285" drop="502">50000</tool>
 		
 		<textures>
 			<default x="8" y="1"/>
 		</textures>
 	</block>
 
-	<block id="152"> <!-- Furnace -->
+	<block id="152"> <!-- Furnace (unlit)-->
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -955,7 +956,29 @@
 		<liquid>false</liquid>
 		<valuable>false</valuable>
 		<active>false</active>
-		<emittance>4</emittance>
+		<emittance>0</emittance>
+		
+		<tool id="278" drop="152">7500</tool>
+		
+		<textures>
+			<top x="14" y="2"/>
+			<bottom x="14" y="3"/>
+			<default x="13" y="2"/>
+			<front x="12" y="2"/>
+		</textures>
+	</block>
+
+	<block id="153"> <!-- Furnace (lit)-->
+		<solid>true</solid>
+		<transparent>false</transparent>
+		<opaque>false</opaque>
+		<visible>true</visible>
+		<special>false</special>
+		<removable>true</removable>
+		<liquid>false</liquid>
+		<valuable>false</valuable>
+		<active>false</active>
+		<emittance>7</emittance>
 		
 		<tool id="278" drop="152">7500</tool>
 		

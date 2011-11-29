@@ -16,7 +16,7 @@ BLOCKLIST (For recipe modification)
 13	T	Gravel (X)
 14	T	Gold Ore		Bauxite
 15	T	Iron Ore		Oil
-16	T	Coal			Flint
+16	T	Coal Ore		Natural Flint
 17	T	Wood
 18	T	Leaves			Spores
 20	T	Glass
@@ -44,12 +44,13 @@ BLOCKLIST (For recipe modification)
 
 150	T				Beacon
 151	T				Xenonic Alloy
-152	T				Furnace
+152	T				Furnace (unlit)
+152	T				Furnace (lit)
 
 256	I	Iron Shovel
 257	I	Iron Pickaxe
 258	I	Iron Axe
-263	I	Coal 			Flint
+263	I	Coal
 264	I	Diamond			Xenore
 265	I	Iron Bar		Aluminium Bar
 266	I	Gold Bar		
@@ -88,10 +89,12 @@ BLOCKLIST (For recipe modification)
 XenoMod only Items
 #ID	ITB	NAME
 150	B	Beacon
-151	B	Refined Xenon
-152	B	Furnace
+151	B	Refined Xenonic Alloy
+152	T	Furnace (Unlit)
+153	T	Furnace (Lit)
 500	I	Bucket (Oil)
-
+501	I	Flint
+502	I	Unrefined Xenonic Alloy
 
 ---NOTES---
 While BAUXITE replaces GOLD, Aluminium items replace IRON items.
