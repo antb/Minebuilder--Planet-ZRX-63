@@ -900,8 +900,8 @@
 		</textures>
 	</block>
 
-	<!--XENOMOD-->
-	<block id="150"> <!--Beacon -->
+
+	<block id="150">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>true</opaque>
@@ -922,7 +922,7 @@
 		</textures>
 	</block>
 
-	<block id="151"> <!-- Diamond/Xenon -->
+	<block id="151">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>true</opaque>
@@ -946,7 +946,7 @@
 		</textures>
 	</block>
 
-	<block id="152"> <!-- Furnace (unlit)-->
+	<block id="152">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -968,7 +968,7 @@
 		</textures>
 	</block>
 
-	<block id="153"> <!-- Furnace (lit)-->
+	<block id="153">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
