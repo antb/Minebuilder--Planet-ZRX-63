@@ -362,13 +362,13 @@
 		<item12>153</item12>
 		<item21>265</item21>
 		<item22>272</item22>
-		<result>283</result>
+		<result>267</result>
 	</recipe>
 
 	<!--Xenon sword-->
 	<recipe>
 		<item11>151</item11>
-		<item12>283</item12>
+		<item12>267</item12>
 		<item13>151</item13>
 		<item22>153</item22>
 		<result>276</result>

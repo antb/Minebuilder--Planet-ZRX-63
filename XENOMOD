@@ -54,7 +54,7 @@ BLOCKLIST (For recipe modification)
 264	I	Diamond			Xenore
 265	I	Iron Bar		Aluminium Bar
 266	I	Gold Bar		
-267	I	Iron Sword		
+267	I	Iron Sword		Forged Blade
 268	I	Baseball Bat		Base Sword
 269	I	Wooden Shovel		Base Shovel
 270	I	Wooden Pickaxe		Base Pickaxe
@@ -68,7 +68,7 @@ BLOCKLIST (For recipe modification)
 278	I	Diamond Pickaxe		Xenonic Pickaxe
 279	I	Diamond Axe		Xenonic Axe
 280	I	Stick
-283	I	Golden Sword		Forged Blade
+283	I	Golden Sword		
 284	I	Golden Shovel		Forged Shovel
 285	I	Golden Pickaxe		Forged Pickaxe
 286	I	Golden Axe		Forged Axe
