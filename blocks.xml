@@ -10,19 +10,19 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">7500</tool>
 		<tool id="270" drop="4">1150</tool>
 		<tool id="274" drop="4">600</tool>
 		<tool id="257" drop="4">400</tool>
 		<tool id="278" drop="4">300</tool>
 		<tool id="285" drop="4">200</tool>
-		
+        
 		<textures>
 			<default x="1" y="0"/>
 		</textures>
 	</block>
-	
+    
 	<block id="2">
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -34,21 +34,21 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="3">700</tool>
 		<tool id="269" drop="3">450</tool>
 		<tool id="273" drop="3">250</tool>
 		<tool id="256" drop="3">150</tool>
 		<tool id="277" drop="3">150</tool>
 		<tool id="284" drop="3">100</tool>
-		
+        
 		<textures>
 			<top x="0" y="0"/>
 			<bottom x="2" y="0"/>
 			<default x="3" y="0"/>
 		</textures>
 	</block>
-	
+    
 	<block id="3">
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -60,14 +60,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="3">700</tool>
 		<tool id="269" drop="3">400</tool>
 		<tool id="273" drop="3">200</tool>
 		<tool id="256" drop="3">150</tool>
 		<tool id="277" drop="3">100</tool>
 		<tool id="284" drop="3">100</tool>
-		
+        
 		<textures>
 			<default x="2" y="0"/>
 		</textures>
@@ -84,14 +84,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">10000</tool>
 		<tool id="270" drop="4">1500</tool>
 		<tool id="274" drop="4">750</tool>
 		<tool id="257" drop="4">500</tool>
 		<tool id="278" drop="4">400</tool>
 		<tool id="285" drop="4">250</tool>
-		
+        
 		<textures>
 			<default x="0" y="1"/>
 		</textures>
@@ -108,20 +108,20 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="5">3000</tool>
 		<tool id="271" drop="5">1500</tool>
 		<tool id="275" drop="5">750</tool>
 		<tool id="258" drop="5">500</tool>
 		<tool id="279" drop="5">400</tool>
 		<tool id="286" drop="5">250</tool>
-		
+        
 		<textures>
 			<default x="4" y="0"/>
 		</textures>
 	</block>
-	
-	<block id="6">
+    
+    <block id="6">
 		<solid>false</solid>
 		<transparent>false</transparent>
 		<opaque>true</opaque>
@@ -132,15 +132,15 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="6">50</tool>
-		
+        
 		<textures>
 			<default x="15" y="0"/>
 		</textures>
 	</block>
-	
-	<block id="7">
+    
+    <block id="7">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -151,15 +151,15 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="5">100000000000</tool>
-		
+        
 		<textures>
 			<default x="1" y="1"/>
 		</textures>
 	</block>
-	
-	<block id="8">
+    
+    <block id="8">
 		<solid>false</solid>
 		<transparent>true</transparent>
 		<opaque>false</opaque>
@@ -170,13 +170,13 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<textures>
 			<default x="13" y="12"/>
 		</textures>
 	</block>
-	
-	<block id="9">
+    
+    <block id="9">
 		<solid>false</solid>
 		<transparent>true</transparent>
 		<opaque>false</opaque>
@@ -187,13 +187,13 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<textures>
 			<default x="13" y="12"/>
 		</textures>
 	</block>
-	
-	<block id="10">
+    
+    <block id="10">
 		<solid>false</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -204,13 +204,13 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>15</emittance>
-		
+        
 		<textures>
 			<default x="13" y="14"/>
 		</textures>
 	</block>
-	
-	<block id="11">
+    
+    <block id="11">
 		<solid>false</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -221,7 +221,7 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>15</emittance>
-		
+        
 		<textures>
 			<default x="13" y="14"/>
 		</textures>
@@ -238,14 +238,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="12">750</tool>
 		<tool id="269" drop="12">400</tool>
 		<tool id="273" drop="12">200</tool>
 		<tool id="256" drop="12">150</tool>
 		<tool id="277" drop="12">100</tool>
 		<tool id="284" drop="12">100</tool>
-		
+        
 		<textures>
 			<default x="2" y="1"/>
 		</textures>
@@ -262,20 +262,20 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="13">900</tool>
 		<tool id="269" drop="13">400</tool>
 		<tool id="273" drop="13">200</tool>
 		<tool id="256" drop="13">150</tool>
 		<tool id="277" drop="13">100</tool>
 		<tool id="284" drop="13">100</tool>
-		
+        
 		<textures>
 			<default x="3" y="1"/>
 		</textures>
-	</block>	
-	
-	<block id="14">
+	</block>    
+    
+    <block id="14">
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -286,39 +286,20 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">15000</tool>
 		<tool id="270" drop="0">15000</tool>
 		<tool id="274" drop="0">15000</tool>
 		<tool id="257" drop="14">750</tool>
 		<tool id="278" drop="14">600</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="0" y="2"/>
 		</textures>
 	</block>
 	
 	<block id="15">
-		<solid>false</solid>
-		<transparent>false</transparent>
-		<opaque>false</opaque>
-		<visible>true</visible>
-		<special>false</special>
-		<removable>true</removable>
-		<liquid>true</liquid>
-		<valuable>false</valuable>
-		<active>false</active>
-		<emittance>0</emittance>
-		
-		<tool id="0" drop="601">150</tool>
-		
-		<textures>
-			<default x="13" y="10"/>
-		</textures>
-	</block>
-	
-	<block id="16">	<!--Flint-->
 		<solid>true</solid>
 		<transparent>false</transparent>
 		<opaque>false</opaque>
@@ -329,15 +310,38 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
-		<!--Old Drop: 263-->
+        
 		<tool id="0" drop="0">15000</tool>
-		<tool id="270" drop="501">2250</tool>
-		<tool id="274" drop="501">1150</tool>
-		<tool id="257" drop="501">750</tool>
-		<tool id="278" drop="501">600</tool>
-		<tool id="285" drop="501">400</tool>
-		
+		<tool id="270" drop="0">15000</tool>
+		<tool id="274" drop="15">1150</tool>
+		<tool id="257" drop="15">750</tool>
+		<tool id="278" drop="15">600</tool>
+		<tool id="285" drop="0">15000</tool>
+        
+		<textures>
+			<default x="1" y="2"/>
+		</textures>
+	</block>
+	
+	<block id="16">
+		<solid>true</solid>
+		<transparent>false</transparent>
+		<opaque>false</opaque>
+		<visible>true</visible>
+		<special>false</special>
+		<removable>true</removable>
+		<liquid>false</liquid>
+		<valuable>false</valuable>
+		<active>false</active>
+		<emittance>0</emittance>
+        
+		<tool id="0" drop="0">15000</tool>
+		<tool id="270" drop="263">2250</tool>
+		<tool id="274" drop="263">1150</tool>
+		<tool id="257" drop="263">750</tool>
+		<tool id="278" drop="263">600</tool>
+		<tool id="285" drop="263">400</tool>
+        
 		<textures>
 			<default x="2" y="2"/>
 		</textures>
@@ -354,14 +358,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="17">3000</tool>
 		<tool id="271" drop="17">1500</tool>
 		<tool id="275" drop="17">750</tool>
 		<tool id="258" drop="17">500</tool>
 		<tool id="279" drop="17">400</tool>
 		<tool id="286" drop="17">250</tool>
-		
+        
 		<textures>
 			<top x="5" y="1"/>
 			<bottom x="5" y="1"/>
@@ -380,9 +384,9 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="6">200</tool>
-		
+        
 		<textures>
 			<default x="4" y="3"/>
 		</textures>
@@ -399,9 +403,9 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">500</tool>
-		
+        
 		<textures>
 			<default x="1" y="3"/>
 		</textures>
@@ -418,14 +422,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">15000</tool>
 		<tool id="270" drop="0">15000</tool>
 		<tool id="274" drop="21">1150</tool>
 		<tool id="257" drop="21">750</tool>
 		<tool id="278" drop="21">600</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="0" y="10"/>
 		</textures>
@@ -442,14 +446,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">15000</tool>
 		<tool id="270" drop="0">15000</tool>
 		<tool id="274" drop="22">1150</tool>
 		<tool id="257" drop="22">750</tool>
 		<tool id="278" drop="22">600</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="0" y="9"/>
 		</textures>
@@ -466,14 +470,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">4000</tool>
 		<tool id="270" drop="24">600</tool>
 		<tool id="274" drop="24">300</tool>
 		<tool id="257" drop="24">200</tool>
 		<tool id="278" drop="24">150</tool>
 		<tool id="285" drop="24">100</tool>
-		
+        
 		<textures>
 			<top x="0" y="13"/>
 			<bottom x="0" y="14"/>
@@ -492,9 +496,9 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="35">700</tool>
-		
+        
 		<textures>
 			<default x="0" y="12"/>
 		</textures>
@@ -511,14 +515,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">15000</tool>
 		<tool id="270" drop="0">15000</tool>
 		<tool id="274" drop="0">15000</tool>
 		<tool id="257" drop="41">750</tool>
 		<tool id="278" drop="41">600</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="7" y="1"/>
 		</textures>
@@ -535,19 +539,19 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">25000</tool>
 		<tool id="270" drop="0">25000</tool>
 		<tool id="274" drop="0">25000</tool>
 		<tool id="257" drop="42">1250</tool>
 		<tool id="278" drop="42">950</tool>
 		<tool id="285" drop="0">25000</tool>
-		
+        
 		<textures>
 			<default x="6" y="1"/>
 		</textures>
 	</block>
-	
+    
 	<block id="45">
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -559,14 +563,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">10000</tool>
 		<tool id="270" drop="45">3000</tool>
 		<tool id="274" drop="45">3000</tool>
 		<tool id="257" drop="45">3000</tool>
 		<tool id="278" drop="45">3000</tool>
 		<tool id="285" drop="45">3000</tool>
-		
+        
 		<textures>
 			<default x="7" y="0"/>
 		</textures>
@@ -583,21 +587,21 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">50000</tool>
 		<tool id="270" drop="0">50000</tool>
 		<tool id="274" drop="0">50000</tool>
 		<tool id="257" drop="0">50000</tool>
 		<tool id="278" drop="49">15000</tool>
 		<tool id="285" drop="0">50000</tool>
-		
+        
 		<textures>
 			<default x="5" y="2"/>
 		</textures>
 	</block>
-	
-	<block id="44">
-		<solid>false</solid>
+    
+    <block id="44">
+        <solid>false</solid>
 		<transparent>false</transparent>
 		<opaque>true</opaque>
 		<visible>true</visible>
@@ -607,16 +611,16 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">3000</tool>
-		
+        
 		<textures>
 			<top x="6" y="0"/>
-			<bottom x="6" y="0"/>
-			<default x="5" y="0"/>
+            <bottom x="6" y="0"/>
+            <default x="5" y="0"/>
 		</textures>
-	</block>
-
+    </block>
+	
 	<block id="50">
 		<solid>false</solid>
 		<transparent>false</transparent>
@@ -627,15 +631,15 @@
 		<liquid>false</liquid>
 		<valuable>false</valuable>
 		<active>false</active>
-		<emittance>10</emittance> <!--default 15-->
-		
+		<emittance>15</emittance>
+        
 		<tool id="0" drop="50">0</tool>
-		
+        
 		<textures>
 			<default x="0" y="5"/>
 		</textures>
 	</block>
-
+	
 	<block id="54">
 		<solid>true</solid>
 		<transparent>false</transparent>
@@ -647,14 +651,14 @@
 		<valuable>false</valuable>
 		<active>true</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="54">3750</tool>
 		<tool id="271" drop="54">1900</tool>
 		<tool id="275" drop="54">950</tool>
 		<tool id="258" drop="54">650</tool>
 		<tool id="279" drop="54">500</tool>
 		<tool id="286" drop="54">350</tool>
-		
+        
 		<textures>
 			<top x="9" y="1"/>
 			<bottom x="9" y="1"/>
@@ -676,14 +680,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">15000</tool>
 		<tool id="270" drop="0">15000</tool>
 		<tool id="274" drop="0">15000</tool>
 		<tool id="257" drop="264">750</tool>
 		<tool id="278" drop="264">600</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="2" y="3"/>
 		</textures>
@@ -700,14 +704,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">25000</tool>
 		<tool id="270" drop="0">25000</tool>
 		<tool id="274" drop="0">25000</tool>
 		<tool id="257" drop="57">1250</tool>
 		<tool id="278" drop="57">950</tool>
 		<tool id="285" drop="0">15000</tool>
-		
+        
 		<textures>
 			<default x="2" y="3"/>
 		</textures>
@@ -724,14 +728,14 @@
 		<valuable>false</valuable>
 		<active>true</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="58">3750</tool>
 		<tool id="271" drop="58">1900</tool>
 		<tool id="275" drop="58">950</tool>
 		<tool id="258" drop="58">650</tool>
 		<tool id="279" drop="58">500</tool>
 		<tool id="286" drop="58">350</tool>
-		
+        
 		<textures>
 			<top x="11" y="2"/>
 			<bottom x="10" y="0"/>
@@ -753,14 +757,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">17500</tool>
 		<tool id="270" drop="61">5250</tool>
 		<tool id="274" drop="61">5250</tool>
 		<tool id="257" drop="61">5250</tool>
 		<tool id="278" drop="61">5250</tool>
 		<tool id="285" drop="61">5250</tool>
-		
+        
 		<textures>
 			<front x="12" y="2"/>
 			<top x="14" y="3"/>
@@ -770,10 +774,10 @@
 			<back x="13" y="2"/>
 		</textures>
 	</block>
-	
-	<block id="63">
-		<solid>false</solid>
-		<transparent>false</transparent>
+    
+    <block id="63">
+        <solid>false</solid>
+        <transparent>false</transparent>
 		<opaque>true</opaque>
 		<visible>true</visible>
 		<special>true</special>
@@ -782,17 +786,17 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="63">2000</tool>
-		
+        
 		<textures>
-			<default x="4" y="0"/>
+            <default x="4" y="0"/>
 		</textures>
-	</block>
-	
-	<block id="64">
-		<solid>false</solid>
-		<transparent>false</transparent>
+    </block>
+    
+    <block id="64">
+        <solid>false</solid>
+        <transparent>false</transparent>
 		<opaque>true</opaque>
 		<visible>true</visible>
 		<special>true</special>
@@ -801,17 +805,17 @@
 		<valuable>false</valuable>
 		<active>true</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="64">2000</tool>
-		
+        
 		<textures>
-			<top x="1" y="5"/>
+            <top x="1" y="5"/>
 			<bottom x="1" y="6"/>
 		</textures>
-	</block>
-	
-	<block id="65">
-		<solid>false</solid>
+    </block>
+    
+    <block id="65">
+        <solid>false</solid>
 		<transparent>false</transparent>
 		<opaque>true</opaque>
 		<visible>true</visible>
@@ -821,13 +825,13 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="65">500</tool>
-		
+        
 		<textures>
 			<default x="3" y="5"/>
 		</textures>
-	</block>
+    </block>
 	
 	<block id="100">
 		<solid>false</solid>
@@ -840,14 +844,14 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">50000</tool>
 		<tool id="270" drop="0">25000</tool>
 		<tool id="274" drop="100">15000</tool>
 		<tool id="257" drop="100">5000</tool>
 		<tool id="278" drop="100">2500</tool>
 		<tool id="285" drop="100">1000</tool>
-		
+        
 		<textures>
 			<front x="13" y="6"/>
 			<top x="14" y="7"/>
@@ -868,9 +872,9 @@
 		<valuable>false</valuable>
 		<active>false</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">5000000</tool>
-		
+        
 		<textures>
 			<front x="13" y="7"/>
 			<back x="13" y="7"/>
@@ -888,107 +892,15 @@
 		<valuable>false</valuable>
 		<active>true</active>
 		<emittance>0</emittance>
-		
+        
 		<tool id="0" drop="0">5000000</tool>
-		
+        
 		<textures>
 			<front x="13" y="8"/>
 			<left x="14" y="8"/>
 			<right x="14" y="8"/>
 			<back x="13" y="8"/>
-			<bottom x="14" y="7"/>
+            <bottom x="14" y="7"/>
 		</textures>
 	</block>
-
-
-	<block id="150">
-		<solid>true</solid>
-		<transparent>false</transparent>
-		<opaque>true</opaque>
-		<visible>true</visible>
-		<special>false</special>
-		<removable>true</removable>
-		<liquid>false</liquid>
-		<valuable>false</valuable>
-		<active>false</active>
-		<emittance>15</emittance>
-		
-		<tool id="0" drop="150">7500</tool>
-		
-		<textures>
-			<top x="7" y="11"/>
-			<bottom x="7" y="11"/>
-			<default x="8" y="11" />
-		</textures>
-	</block>
-
-	<block id="151">
-		<solid>true</solid>
-		<transparent>false</transparent>
-		<opaque>true</opaque>
-		<visible>true</visible>
-		<special>false</special>
-		<removable>true</removable>
-		<liquid>false</liquid>
-		<valuable>false</valuable>
-		<active>false</active>
-		<emittance>0</emittance>
-		
-		<tool id="0" drop="502">50000</tool>
-		<tool id="270" drop="502">50000</tool>
-		<tool id="274" drop="502">50000</tool>
-		<tool id="257" drop="502">50000</tool>
-		<tool id="278" drop="502">15000</tool>
-		<tool id="285" drop="502">50000</tool>
-		
-		<textures>
-			<default x="8" y="1"/>
-		</textures>
-	</block>
-
-	<block id="152">
-		<solid>true</solid>
-		<transparent>false</transparent>
-		<opaque>false</opaque>
-		<visible>true</visible>
-		<special>false</special>
-		<removable>true</removable>
-		<liquid>false</liquid>
-		<valuable>false</valuable>
-		<active>false</active>
-		<emittance>0</emittance>
-		
-		<tool id="278" drop="152">7500</tool>
-		
-		<textures>
-			<top x="14" y="2"/>
-			<bottom x="14" y="3"/>
-			<default x="13" y="2"/>
-			<front x="12" y="2"/>
-		</textures>
-	</block>
-
-	<block id="153">
-		<solid>true</solid>
-		<transparent>false</transparent>
-		<opaque>false</opaque>
-		<visible>true</visible>
-		<special>false</special>
-		<removable>true</removable>
-		<liquid>false</liquid>
-		<valuable>false</valuable>
-		<active>false</active>
-		<emittance>7</emittance>
-		
-		<tool id="278" drop="152">7500</tool>
-		
-		<textures>
-			<top x="14" y="2"/>
-			<bottom x="14" y="3"/>
-			<default x="13" y="2"/>
-			<front x="13" y="3"/>
-		</textures>
-	</block>
-
 </blocks>
-

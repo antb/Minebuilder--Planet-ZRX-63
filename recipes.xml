@@ -1,117 +1,358 @@
 
 <recipes>
-	<!--weird obsidian -->
+    <!--weird obsidian -->
 	<recipe>
-		<item11>1</item11>
-		<item21>1</item21>
-		<item31>1</item31>
-		<item12>1</item12>
-		<item22>1</item22>
-		<item32>1</item32>
-		<item13>1</item13>
-		<item23>1</item23>
-		<item33>1</item33>
-		<result>49</result>
+        <item11>1</item11>
+        <item21>1</item21>
+        <item31>1</item31>
+        <item12>1</item12>
+        <item22>1</item22>
+        <item32>1</item32>
+        <item13>1</item13>
+        <item23>1</item23>
+        <item33>1</item33>
+        <result>49</result>
 	</recipe>
 	
-	<!--planks -->
+    <!--planks -->
 	<recipe>
-		<item22>17</item22>
-		<result count="4">5</result> 
+        <item22>17</item22>
+        <result count="4">5</result> 
 	</recipe>
 	
-	<!--sticks-->
-	<recipe>
-		<item21>5</item21>
-		<item22>5</item22>
-		<result count="4">280</result>
-	</recipe>
-	
-	<!--crafting table-->
-	<recipe>
-		<item11>5</item11>
-		<item21>5</item21>
-		<item12>5</item12>
-		<item22>5</item22>
-		<result>58</result>
-	</recipe>
-	
-	<!--Fire_1-->
-	<recipe>
-		<item11>4</item11>
-		<item12>4</item12>
-		<item13>4</item13>
-		<item21>4</item21>
-		<item22>263</item22>
-		<item23>4</item23>
-		<item31>4</item31>
-		<item32>4</item32>
-		<item33>4</item33>
-		<result>400</result>
-	</recipe>
-	
-	<!--Fire_8-->
-	<recipe>
-		<item21>263</item21>
-		<item22>400</item22>
-		<result count="8">400</result>
-	</recipe>
-	
-	<!--Smooth stone-->
-	<recipe>
-		<item21>4</item21>
-		<item22>400</item22>
-		<result>1</result>
-	</recipe>
-	
-	<!--Iron Bar-->
-	<recipe>
-		<item21>15</item21>
-		<item22>400</item22>
-		<result>265</result>
-	</recipe>
-	
-	<!--Gold Bar-->
-	<recipe>
-		<item21>14</item21>
-		<item22>400</item22>
-		<result>266</result>
-	</recipe>
-	
-	<!--Iron block-->
-	<recipe>
-		<item11>265</item11>
-		<item12>265</item12>
-		<item13>265</item13>
-		<item21>265</item21>
-		<item22>265</item22>
-		<item23>265</item23>
-		<item31>265</item31>
-		<item32>265</item32>
-		<item33>265</item33>
-		<result>42</result>
-	</recipe>
-	
-	<!--Gold block-->
-	<recipe>
-		<item11>266</item11>
-		<item12>266</item12>
-		<item13>266</item13>
-		<item21>266</item21>
-		<item22>266</item22>
-		<item23>266</item23>
-		<item31>266</item31>
-		<item32>266</item32>
-		<item33>266</item33>
-		<result>41</result>
-	</recipe>
-		
-	<!--Glass-->
-	<recipe>
-		<item21>12</item21>
-		<item22>400</item22>
-		<result>20</result>
-	</recipe>
+    <!--sticks-->
+    <recipe>
+        <item21>5</item21>
+        <item22>5</item22>
+        <result count="4">280</result>
+    </recipe>
+    
+    <!--torches-->
+    <recipe>
+        <item22>263</item22>
+        <item23>280</item23>
+        <result count="4">50</result>
+    </recipe>
+    
+    <!--sandstone-->
+    <recipe>
+        <item11>12</item11>
+        <item21>12</item21>
+        <item12>12</item12>
+        <item22>12</item22>
+        <result>24</result>
+    </recipe>
+    
+    <!--crafting table-->
+    <recipe>
+        <item11>5</item11>
+        <item21>5</item21>
+        <item12>5</item12>
+        <item22>5</item22>
+        <result>58</result>
+    </recipe>
+    
+    <!--Fire_1-->
+    <recipe>
+        <item11>4</item11>
+        <item12>4</item12>
+        <item13>4</item13>
+        <item21>4</item21>
+        <item22>263</item22>
+        <item23>4</item23>
+        <item31>4</item31>
+        <item32>4</item32>
+        <item33>4</item33>
+        <result>400</result>
+    </recipe>
+    
+    <!--Fire_8-->
+    <recipe>
+        <item21>263</item21>
+        <item22>400</item22>
+        <result count="8">400</result>
+    </recipe>
+    
+    <!--Smooth stone-->
+    <recipe>
+        <item21>4</item21>
+        <item22>400</item22>
+        <result>1</result>
+    </recipe>
+    
+    <!--Iron Bar-->
+    <recipe>
+        <item21>15</item21>
+        <item22>400</item22>
+        <result>265</result>
+    </recipe>
+    
+    <!--Gold Bar-->
+    <recipe>
+        <item21>14</item21>
+        <item22>400</item22>
+        <result>266</result>
+    </recipe>
+    
+    <!--Iron block-->
+    <recipe>
+        <item11>265</item11>
+        <item12>265</item12>
+        <item13>265</item13>
+        <item21>265</item21>
+        <item22>265</item22>
+        <item23>265</item23>
+        <item31>265</item31>
+        <item32>265</item32>
+        <item33>265</item33>
+        <result>42</result>
+    </recipe>
+    
+    <!--Gold block-->
+    <recipe>
+        <item11>266</item11>
+        <item12>266</item12>
+        <item13>266</item13>
+        <item21>266</item21>
+        <item22>266</item22>
+        <item23>266</item23>
+        <item31>266</item31>
+        <item32>266</item32>
+        <item33>266</item33>
+        <result>41</result>
+    </recipe>
+    
+    <!--Iron pickaxe-->
+    <recipe>
+        <item11>265</item11>
+        <item21>265</item21>
+        <item31>265</item31>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>257</result>
+    </recipe>
+    
+    <!--Iron shovel-->
+    <recipe>
+        <item21>265</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>256</result>
+    </recipe>
+    
+    <!--Iron sword-->
+    <recipe>
+        <item21>265</item21>
+        <item22>265</item22>
+        <item23>280</item23>
+        <result>267</result>
+    </recipe>
+    
+    <!--Iron hoe-->
+    <recipe>
+        <item11>265</item11>
+        <item21>265</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>292</result>
+    </recipe>
+    
+    <!--Iron axe-->
+    <recipe>
+        <item11>265</item11>
+        <item21>265</item21>
+        <item12>265</item12>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>258</result>
+    </recipe>
+    
+    <!--Wooden pickaxe-->
+    <recipe>
+        <item11>5</item11>
+        <item21>5</item21>
+        <item31>5</item31>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>270</result>
+    </recipe>
+    
+    <!--Wooden shovel-->
+    <recipe>
+        <item21>5</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>269</result>
+    </recipe>
+    
+    <!--Wooden sword-->
+    <recipe>
+        <item21>5</item21>
+        <item22>5</item22>
+        <item23>280</item23>
+        <result>268</result>
+    </recipe>
+    
+    <!--Wooden hoe-->
+    <recipe>
+        <item11>5</item11>
+        <item21>5</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>290</result>
+    </recipe>
+    
+    <!--Wooden axe-->
+    <recipe>
+        <item11>5</item11>
+        <item21>5</item21>
+        <item12>5</item12>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>271</result>
+    </recipe>
+    
+    <!--Stone pickaxe-->
+    <recipe>
+        <item11>4</item11>
+        <item21>4</item21>
+        <item31>4</item31>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>274</result>
+    </recipe>
+    
+    <!--Stone shovel-->
+    <recipe>
+        <item21>4</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>273</result>
+    </recipe>
+    
+    <!--Stone sword-->
+    <recipe>
+        <item21>4</item21>
+        <item22>4</item22>
+        <item23>280</item23>
+        <result>272</result>
+    </recipe>
+    
+    <!--Stone hoe-->
+    <recipe>
+        <item11>4</item11>
+        <item21>4</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>291</result>
+    </recipe>
+    
+    <!--Stone axe-->
+    <recipe>
+        <item11>4</item11>
+        <item21>4</item21>
+        <item12>4</item12>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>275</result>
+    </recipe>
+    
+    <!--Gold pickaxe-->
+    <recipe>
+        <item11>266</item11>
+        <item21>266</item21>
+        <item31>266</item31>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>285</result>
+    </recipe>
+    
+    <!--Gold shovel-->
+    <recipe>
+        <item21>266</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>284</result>
+    </recipe>
+    
+    <!--Gold sword-->
+    <recipe>
+        <item21>266</item21>
+        <item22>266</item22>
+        <item23>280</item23>
+        <result>283</result>
+    </recipe>
+    
+    <!--Gold hoe-->
+    <recipe>
+        <item11>266</item11>
+        <item21>266</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>294</result>
+    </recipe>
+    
+    <!--Gold axe-->
+    <recipe>
+        <item11>266</item11>
+        <item21>266</item21>
+        <item12>266</item12>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>286</result>
+    </recipe>
+    
+    <!--Dimaond pickaxe-->
+    <recipe>
+        <item11>264</item11>
+        <item21>264</item21>
+        <item31>264</item31>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>278</result>
+    </recipe>
+    
+    <!--Diamond shovel-->
+    <recipe>
+        <item21>264</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>277</result>
+    </recipe>
+    
+    <!--Diamond sword-->
+    <recipe>
+        <item21>264</item21>
+        <item22>264</item22>
+        <item23>280</item23>
+        <result>276</result>
+    </recipe>
+    
+    <!--Diamond hoe-->
+    <recipe>
+        <item11>264</item11>
+        <item21>264</item21>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>293</result>
+    </recipe>
+    
+    <!--Diamond axe-->
+    <recipe>
+        <item11>264</item11>
+        <item21>264</item21>
+        <item12>264</item12>
+        <item22>280</item22>
+        <item23>280</item23>
+        <result>279</result>
+    </recipe>
+    
+    <!--Glass-->
+    <recipe>
+        <item21>12</item21>
+        <item22>400</item22>
+        <result>20</result>
+    </recipe>
 	
 	<!-- chest -->
 	<recipe>
@@ -142,7 +383,7 @@
 		<item11>280</item11>
 		<item31>280</item31>
 		<item12>280</item12>
-		<item22>280</item22>
+        <item22>280</item22>
 		<item32>280</item32>
 		<item13>280</item13>
 		<item33>280</item33>
@@ -155,6 +396,14 @@
 		<item22>4</item22>
 		<item32>4</item32>
 		<result count="3">44</result>
+	</recipe>
+	
+	<!--  bucket -->
+	<recipe>
+		<item11>265</item11>
+		<item22>265</item22>
+		<item31>265</item31>
+		<result>325</result>
 	</recipe>
 	
 	<!--  sign -->
@@ -181,234 +430,4 @@
 		<result>100</result>
 	</recipe>
 	
-	<!--  XenoMod -->
-	<!-- TESTBLOCKS -->
-	<recipe>
-		<item11>3</item11>
-		<result>152</result>
-	</recipe>
-	<recipe>
-		<item11>4</item11>
-		<result>150</result>
-	</recipe>
-	<!-- Beacon -->
-	<recipe>
-		<item11>151</item11>
-		<item12>151</item12>
-		<item13>151</item13>
-		<item21>151</item21>
-		<item22>50</item22>
-		<item23>151</item23>
-		<item31>151</item31>
-		<item32>151</item32>
-		<item33>151</item33>
-		<result>150</result>
-	</recipe>
-
-	<!-- Furnace (unlit)-->
-	<recipe>
-		<item11>4</item11>
-		<item13>4</item13>
-		<item21>4</item21>
-		<item22>4</item22>
-		<item23>4</item23>
-		<item31>4</item31>
-		<item33>4</item33>
-		<result>152</result>
-	</recipe>
-
-	<!--Furnace (lit)-->
-	<recipe>
-		<item11>4</item11>
-		<item13>4</item13>
-		<item21>4</item21>
-		<item22>4</item22>
-		<item23>4</item23>
-		<item31>4</item31>
-		<item32>50</item32>
-		<item33>4</item33>
-		<result>153</result>
-	</recipe>
-
-	<recipe>
-		<item11>152</item11>
-		<item21>50</item21>
-		<result>153</result>
-	</recipe>
-
-	<!-- Bucket -->
-	<recipe>
-		<item11>280</item11>
-		<item12>4</item12>
-		<item13>4</item13>
-		<item21>280</item21>
-		<item23>4</item23>
-		<item31>280</item31>
-		<item32>4</item32>
-		<item33>4</item33>
-		<result>325</result>
-	</recipe>
-
-	<!--Refined Xenonic Alloy-->
-	<recipe>
-		<item11>502</item11>
-		<item21>502</item21>
-		<item31>502</item31>
-		<item22>152</item22>
-		<result count="2">503</result>
-	</recipe>
-
-	<!-- Torch -->
-	<recipe>
-		<item11>500</item11>
-		<item21>501</item21>
-		<item22>501</item22>
-		<item23>325</item23>
-		<item31>325</item31>
-		<item32>325</item32>
-		<item33>325</item33>
-		<result count="5">50</result>
-	</recipe>
-
-<!--TOOLS -->
-<!--T:Picks-->
-	<!--Wooden pickaxe-->
-	<recipe>
-		<item11>5</item11>
-		<item21>5</item21>
-		<item31>5</item31>
-		<item22>280</item22>
-		<item23>280</item23>
-		<result>270</result>
-	</recipe>
-	
-	<!--Modified Pick-->
-	<recipe>
-		<item11>4</item11>
-		<item21>4</item21>
-		<item31>4</item31>
-		<item22>270</item22>
-		<result>274</result>
-	</recipe>
-
-	<!--Forged Pick-->
-	<recipe>
-		<item11>265</item11>
-		<item12>153</item12>
-		<item21>265</item21>
-		<item22>274</item22>
-		<result>285</result>
-	</recipe>
-
-	<!--Xenon Pick-->
-	<recipe>
-		<item11>151</item11>
-		<item12>285</item12>
-		<item13>151</item13>
-		<item22>153</item22>
-		<result>278</result>
-	</recipe>
-
-<!--T:Shovels-->
-	<!--Wooden shovel-->
-	<recipe>
-		<item21>5</item21>
-		<item22>280</item22>
-		<item23>280</item23>
-		<result>269</result>
-	</recipe>
-	<!--Modified shovel-->
-	<recipe>
-		<item21>4</item21>
-		<item22>269</item22>
-		<result>273</result>
-	</recipe>
-	<!--Forged shovel-->
-	<recipe>
-		<item11>265</item11>
-		<item12>153</item12>
-		<item21>265</item21>
-		<item22>273</item22>
-		<result>284</result>
-	</recipe>
-
-	<!--Xenon shovel-->
-	<recipe>
-		<item11>151</item11>
-		<item12>284</item12>
-		<item13>151</item13>
-		<item22>153</item22>
-		<result>277</result>
-	</recipe>
-
-<!--T:Swords-->
-	<!--Wooden sword-->
-	<recipe>
-		<item21>5</item21>
-		<item22>5</item22>
-		<item23>280</item23>
-		<result>268</result>
-	</recipe>
-	<!--Modified sword-->
-	<recipe>
-		<item21>4</item21>
-		<item22>4</item22>
-		<item23>268</item23>
-		<result>272</result>
-	</recipe>
-	<!--Forged sword-->
-	<recipe>
-		<item11>265</item11>
-		<item12>153</item12>
-		<item21>265</item21>
-		<item22>272</item22>
-		<result>267</result>
-	</recipe>
-
-	<!--Xenon sword-->
-	<recipe>
-		<item11>151</item11>
-		<item12>267</item12>
-		<item13>151</item13>
-		<item22>153</item22>
-		<result>276</result>
-	</recipe>
-		
-<!--T:Axes-->
-	<!--Wooden axe-->
-	<recipe>
-		<item11>5</item11>
-		<item21>5</item21>
-		<item12>5</item12>
-		<item22>280</item22>
-		<item23>280</item23>
-		<result>271</result>
-	</recipe>
-	<!--Modified axe-->
-	<recipe>
-		<item11>4</item11>
-		<item21>4</item21>
-		<item12>4</item12>
-		<item22>271</item22>
-		<result>275</result>
-	</recipe>
-	<!--Forged shovel-->
-	<recipe>
-		<item11>265</item11>
-		<item12>153</item12>
-		<item21>265</item21>
-		<item22>275</item22>
-		<result>284</result>
-	</recipe>
-
-	<!--Xenon shovel-->
-	<recipe>
-		<item11>151</item11>
-		<item12>284</item12>
-		<item13>151</item13>
-		<item22>153</item22>
-		<result>279</result>
-	</recipe>
-
 </recipes>
-
